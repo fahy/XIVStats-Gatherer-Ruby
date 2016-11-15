@@ -61,6 +61,7 @@ class Player
     hw_complete
     hw_31_complete
     hw_33_complete
+    hw_34_complete
     legacy_player
     ifrit_ex_mount
     garuda_ex_mount
